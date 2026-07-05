@@ -1,0 +1,6 @@
+{
+  "appId": "com.nexus.mouride",
+  "appName": "Nexus Mouride",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
